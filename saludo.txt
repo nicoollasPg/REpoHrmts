@@ -1,1 +1,1 @@
-Bienvenidos al sistema de ventas.
+Bienvenidos al sistema principal de ventas.
